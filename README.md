@@ -8,3 +8,7 @@ Os dados utilizados pela aplicação podem ser armazenados:
 
 em um banco de dados SQLite (veja aqui como acessar o SQLite a partir do código do seu aplicativo); ou
 em um servidor remoto, que funcionará como backend para o aplicativo (veja aqui como criar um servidor com Node.JS).
+
+____________________________________________________________________________________________________________
+
+Nosso sistema irá monitorar uma planta para identificar quando ela precisa de água.
