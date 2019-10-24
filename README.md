@@ -1,6 +1,7 @@
 # iAmGroot
 
 Descrição do Trabalho
+
 Este trabalho consiste em criar uma aplicação baseada em algum tipo de sistema embarcado. A plataforma é de livre escolha.
 
 Os dados utilizados pela aplicação podem ser armazenados:
